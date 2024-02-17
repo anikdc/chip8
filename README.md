@@ -1,1 +1,0 @@
-# Learning MatPlotLib in Public
